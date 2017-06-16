@@ -1,0 +1,11 @@
+{
+    "name": "commandito/php-samples",
+    "description": "Samples for PHP development",
+    "authors": [
+        {
+            "name": "kenan",
+            "email": "kenan@enginaar.com"
+        }
+    ],
+    "require": {}
+}
