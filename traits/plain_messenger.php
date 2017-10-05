@@ -8,4 +8,3 @@ class Messenger {
 
 $msgr = new Messenger();
 $msgr->message("Hi");
-
